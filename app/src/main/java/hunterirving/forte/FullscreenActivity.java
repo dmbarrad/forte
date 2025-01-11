@@ -27,11 +27,13 @@ public class FullscreenActivity extends AppCompatActivity {
     //DISPLAY_NAME, INTENT_TYPE, INTENT_CATEGORY, PACKAGE_NAME
     //each appPair must include either <INTENT_TYPE and INTENT_CATEGORY> or <PACKAGE_NAME>
     final String[][] appPairs = {
+                    {"MNEMOSYNE", null, null, "de.ferreum.pto"},
                     {"ATLAS", ACTION_MAIN, CATEGORY_APP_MAPS, null},
                     {"CAMERA", INTENT_ACTION_STILL_IMAGE_CAMERA, CATEGORY_DEFAULT, null},
-                    {"TELEPHONE", ACTION_CALL_BUTTON, CATEGORY_DEFAULT, null},
-                    {"TELEGRAPH", ACTION_MAIN, CATEGORY_APP_MESSAGING, null}/*,
-                    {"PHONOGRAPH", null, null, "com.spotify.music"}*/
+                    {"ECHO", ACTION_CALL_BUTTON, CATEGORY_DEFAULT, null},
+                    {"HERMES", ACTION_MAIN, CATEGORY_APP_MESSAGING, null},
+                    {"CHRONOS", null, null, "com.urbandroid.sleep"},
+                    {"EUTERPE", null, null, "com.aimp.player"}
             };
 
     int chunkSize = 85;
