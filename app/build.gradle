@@ -1,6 +1,9 @@
-apply plugin: 'com.android.application'
-
+// apply plugin: 'com.android.application'
+plugins {
+    id 'com.andoird.application'
+}
 android {
+    namespace 'hunterirving.forte'
     compileSdkVersion 29
     defaultConfig {
         applicationId "hunterirving.forte"
