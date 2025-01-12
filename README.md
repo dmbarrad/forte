@@ -31,7 +31,7 @@ re-imagine your phone as a tool. rediscover freedom of the mind.
 Very cool stuff from hunter, I've never did anything related to android apps, so this cost me one night to compile.
 
 ### what I did?
-I tried this
+I tried this  
 `sudo apt install openjdk-11-jdk`  
 `downloaded https://developer.android.com/studio#downloads`  
 `mkdir -p ~/Android/Sdk/cmdline-tools`  
