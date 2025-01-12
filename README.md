@@ -16,19 +16,28 @@ re-imagine your phone as a tool. rediscover freedom of the mind.
 ### what's in the box:
 • ATLAS, a map of the entire planet (pocket version)  
 • CAMERA, a tool for capturing memories (now in color!)  
-• TELEPHONE, which converts audible vibrations into radio waves, enabling brain-to-brain psychic communication with anyone in the world  
-• TELEGRAPH, the same thing but you use your thumbs  
+• ECHO, which converts audible vibrations into radio waves, enabling brain-to-brain psychic communication with anyone in the world  
+• HERMES, the same thing but you use your thumbs  
+
+Dmbarrad has added the next ones:  
+• MNEMOSYNE, a tool for remembering  
+• CHRONOS, an alarm to wake you up before you get robbed  
+• EUTERPE, the gods have spoken
 
 ### optional accessories (not included):
-• daily planner/sketchbook  
-• bedside alarm clock  
-• walkman/mp3 player  
-• pocket calculator  
+• daily planner/sketchbook  (done)  
+• bedside alarm clock  (done)  
+• walkman/mp3 player  (done)  
+• pocket calculator    
 • gameboy  
 
 
 ### dmbarrad's input: 
-Very cool stuff from hunter, I've never did anything related to android apps, so this cost me one night to compile.
+Very cool stuff from hunter, I've never did anything related to android apps, so this cost me one night to compile.   
+Three apps I use and like:   
+CHRONOS is [Sleep as android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)  
+EUTERPE is [AIMP music player](https://play.google.com/store/apps/details?id=com.aimp.player)  
+MNEMOSYNE is [PlainText Organizer](https://f-droid.org/packages/de.ferreum.pto/)  
 
 ### what I did?
 I tried this  
