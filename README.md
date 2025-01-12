@@ -42,7 +42,7 @@ MNEMOSYNE is [PlainText Organizer](https://f-droid.org/packages/de.ferreum.pto/)
 ### what I did?
 I tried this  
 `sudo apt install openjdk-11-jdk`  
-`downloaded https://developer.android.com/studio#downloads`  
+downloaded https://developer.android.com/studio#downloads   
 `mkdir -p ~/Android/Sdk/cmdline-tools`  
 moved all bin/ from studio.tar.gz to cmdline-tools above  
 clicked on the studio binary, followed instructions until it downloaded all needed things.  
