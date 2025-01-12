@@ -52,6 +52,7 @@ open terminal in forte's directory
 `./gradlew --refresh-dependencies`  
 `./gradlew assembleDebug`  
 The apk is going to be in ./app/build/outputs/apk/debug as app-debug.apk  
+I've uploaded the one I got, look into the files.   
 
 result:
 ![](screenshot_forte.jpg)
